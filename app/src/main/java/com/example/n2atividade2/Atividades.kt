@@ -44,7 +44,7 @@ class Atividades : AppCompatActivity(), SensorEventListener, LocationListener {
     private var accelZ = 0.0
     private var latitude = 0.0
     private var longitude = 0.0
-    private val atleta = "claudioneto"
+    private val atleta = "lucasfernandes"
     private var isRecording = false
     private var selectedOption: String = ""
     var movimentos: MutableList<Movimento> = mutableListOf()
